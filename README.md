@@ -1,8 +1,6 @@
 rocket-launcher
 ===============
 
-# Storm Launcher 
-
 Dream cheeky Rocket launcher API in python. Controls the Dream Cheeky
 [O.I.C Storm](http://www.dreamcheeky.com/storm-oic-missile-launcher)
  & [Thunder](http://www.dreamcheeky.com/thunder-missile-launcher) USB
